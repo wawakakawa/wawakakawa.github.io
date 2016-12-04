@@ -1,0 +1,35 @@
+body{
+background-image: url("hhttp://cdn.thedailybeast.com/content/dailybeast/articles/2015/08/24/simpsons-writer-trump-presidential-run-not-as-fun-as-it-should-be/jcr:content/image.img.2000.jpg/1440497573575.cached.jpg");
+font-size: 21px;
+
+
+}
+p{ color: magenta; 
+text-align: center;
+}
+h1{
+	color:yellow;
+	font size: 52px;
+	text-align: center;
+
+}
+a{
+
+	background-color: grey;
+	border: 2px solid black;
+	padding 15px;
+	border-radius: :25px;
+	border-style: dashed;
+	text-decoration: none;
+	font-weight: bolder;
+	color: #fff;
+	text-transform: capitalize;
+
+
+
+}
+
+
+
+
+

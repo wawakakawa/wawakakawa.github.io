@@ -1,0 +1,48 @@
+
+
+body{
+background: black;
+background-image: url(); ;
+font-size: 21px;
+
+
+}
+p{ color: magenta; 
+text-align: center;
+}
+h1{
+	color:yellow;
+	font size: 52px;
+	text-align: center;
+
+}
+a{
+	/* text-align: center; */
+	background-color: yellow;
+	border: 2px solid black;
+
+
+
+}
+
+/* padding-top: 20px;	
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+*/
+
+.second {
+	background: cyan;
+}
+.first {
+	background: green;
+}
+.second h1{color: purple}
+.second p{
+	text-decoration: underline;
+	font-size:32 px;
+}
+
+
+
+
