@@ -1,24 +1,16 @@
-body{
-background: #e1bee7;
-font-size: 21px;
+		body{
+			background: #e1bee7;
+			font-size: 21px;
+			}
 
-
-}
-
-	p{ color: #1a237e; 
-text-align: justify;
-}
-h1{
-	font-family: comic
-	color:#283593;
-	font size: 52px;
-	text-align: center;
-
-}
-a{
-	/* text-align: center; */
-	background-color: black;
-	border: 2px solid black;
-
-}
-
+		p{ 
+			color: #1a237e; 
+			text-align: justify;
+			font-family: "comic", cursive;
+			}
+		h1{
+			font-family: "comic", cursive;
+			color:#283593;
+			font size: 52px;
+			text-align: center;
+			}
